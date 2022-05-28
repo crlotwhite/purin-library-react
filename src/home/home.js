@@ -21,7 +21,11 @@ function Home() {
                 >자세한 사용법 알아보기</Button>
                 <Collapse in={open}>
                     <div id="how-to-use">
-                        usage
+                        <ul>
+                            <li>Search 메뉴를 클릭한다.</li>
+                            <li>원하는 곡 또는 작곡가를 검색한다.</li>
+                            <li>"자세히 보기" 버튼을 눌러 번호를 확인한다.</li>
+                        </ul>
                     </div>
                 </Collapse>
             </div>
