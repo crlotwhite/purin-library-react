@@ -13,8 +13,8 @@
 COVID-19이 퍼지기전에 Django를 이용해서 만든 프로젝트였으나, 기존에 사용하던 pythonanywhere의 애플리케이션 종료 이슈와 서버 비용 최소화를 위해 프론트엔드 애플리케이션으로 재구성했습니다.
 
 스크린샷들
-![](스크린샷1)
-![](스크린샷2)
+![스크린샷1](https://github.com/crlotwhite/purin-library-react/blob/main/readme/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-05-28%20%EC%98%A4%ED%9B%84%2011.46.37.png)
+![스크린샷2](https://github.com/crlotwhite/purin-library-react/blob/main/readme/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-05-29%20%EC%98%A4%EC%A0%84%2012.00.45.png)
 
 
 ## 목표
